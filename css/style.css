@@ -1,0 +1,73 @@
+body{
+	padding-top: 60px;
+}
+
+.nav-menu{
+	background-color: white;
+	height: 5%;
+	border: none;
+}
+#logo{
+	width: 160px;
+	margin-top: -10px;
+}
+.carousel-inner{
+	height: 360px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
+.thumbnail p{
+	text-align: center;
+
+}
+.ctn-noticias{
+	padding-top: 20px;
+}
+
+.jumbotron{
+	height: 250px;
+	text-align: center;
+	background-color: green;
+	color: white;
+}
+.img-jumb{
+	position: relative;
+	bottom: 40px;
+}
+@media (max-width: 480px){
+			
+	.jumbotron{
+	height: 480px;
+	margin: auto;
+	text-align: center;
+	}
+	.img-jumb{
+		margin: auto;
+		top: 0px;
+	}
+
+	
+}
+.doc-asp{
+	text-align: center;
+}
+.footer{
+	background-color: green;
+	color: white;
+	margin: auto;
+	padding: 30px 0 30px 0;
+}
+.footer li{
+	list-style: none;
+}
+.footer a{
+	color: white;
+}
+
