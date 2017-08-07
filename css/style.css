@@ -63,11 +63,33 @@ h5{
 	color: white;
 	margin: auto;
 	padding: 30px 0 30px 0;
+	height: 350px;
+	text-align: left;
+}
+.footer h5{
+	color: white;
+	text-align: center;
+
+}
+.footer ul{
+	text-align: left;
+
 }
 .footer li{
 	list-style: none;
+	text-align: left;
+
 }
 .footer a{
 	color: white;
 }
+.column-left{
+
+margin-left: 0px;
+
+}
+.map-ubi{
+	margin: auto;
+}
+
 
