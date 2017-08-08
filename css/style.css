@@ -52,44 +52,38 @@ h5{
 		margin: auto;
 		top: 0px;
 	}
-
+	.footer-min{
+		background-color: green;
+		height: 900px;
+	}
 	
+
 }
 .doc-asp{
 	text-align: center;
 }
 .footer{
 	background-color: green;
+	padding: 20px 0 10px 0;
 	color: white;
-	margin: auto;
-	padding: 30px 0 30px 0;
-	height: 350px;
-	text-align: left;
-}
-.footer h5{
-	color: white;
-	text-align: center;
-
-}
-.footer ul{
-	text-align: left;
-
-}
-.footer li{
-	list-style: none;
-	text-align: left;
-
 }
 .footer a{
 	color: white;
 }
-.column-left{
-
-margin-left: 0px;
-
+textarea{
+	width: 100%;
+	height: 100px;
 }
-.map-ubi{
-	margin: auto;
+
+/*NOSOTROS*/
+.img-somos{
+	padding: 40px 30px 10px 0;
 }
+.img-mision{
+	width: 100%;
+	height: 500px;
+	padding: 30px 0 0 0;
+}
+
 
 
