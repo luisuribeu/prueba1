@@ -56,6 +56,9 @@ h5{
 		background-color: green;
 		height: 900px;
 	}
+	.ulist{
+		display: none;
+	}
 	
 
 }
@@ -90,6 +93,17 @@ textarea{
 }
 .texto-colum-right{
 	text-align: center;
+}
+.social-network{
+	width: 40px;
+	height: 40px;
+		
+}
+.lif{
+	float: left;
+}
+li{
+	list-style-type: none;
 }
 
 
